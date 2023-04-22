@@ -13,6 +13,7 @@ important note: Do not try to charge batteries at the same time with single usb 
 ![7](https://user-images.githubusercontent.com/5972349/231219297-a5488382-4af3-4858-856f-a89dafb91d46.jpg)
 
 You can see simply signal levels with AD8307_Signal_Level.ino
+
 https://user-images.githubusercontent.com/5972349/233787922-170fa1a8-c35f-4eee-9391-79f15eb8cb6c.mp4
 
 
